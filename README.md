@@ -104,26 +104,7 @@ Full Stack Developer | DSA Enthusiast
 
 ---
 
-# ✅ 🧾 **GitHub “About” Section (Short)**
 
-👉 Paste this in GitHub About:
-
-**Option 1 (Best):**
-> Real-time collaborative whiteboard with multi-user editing, JWT authentication, and low-latency communication using Socket.IO.
-
-**Option 2 (Shorter):**
-> Scalable real-time whiteboard app with multi-user collaboration, built using React, Node.js, and Socket.IO.
-
----
-
-# 🔥 Bonus (Important for Recruiters)
-
-👉 Add these **topics/tags** in GitHub:
-
-react nodejs socketio mongodb realtime websocket collaborative-app jwt fullstack
-
-
----
 
 
 
