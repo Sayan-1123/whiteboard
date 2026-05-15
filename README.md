@@ -93,7 +93,7 @@ npm install
 
 Open Terminal 1:
 
-```bash id="o6gznv"
+
 cd C:\Users\sayan\whiteboard\backend
 npm run dev
 ```
@@ -104,7 +104,6 @@ npm run dev
 
 Open Terminal 2:
 
-```bash id="5o1uhm"
 cd C:\Users\sayan\whiteboard\whiteboard-tutorial
 npm start
 ```
