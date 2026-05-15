@@ -80,7 +80,7 @@ npm install
 
 ## 📥 Install Frontend Dependencies
 
-```bash id="7u7okm"
+
 cd ../whiteboard-tutorial
 npm install
 ```
