@@ -58,54 +58,90 @@ A scalable, real-time collaborative whiteboard platform that allows multiple use
 ## 📦 Installation & Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/whiteboard-app.git
+## 📦 Installation & Setup
 
-# Navigate to project folder
-cd whiteboard-app
+### Clone the Repository
 
-# Install backend dependencies
-cd server
-npm install
-
-# Install frontend dependencies
-cd ../client
-npm install
-▶️ Running the Application
-# Start backend
-cd server
-npm run dev
-
-# Start frontend
-cd client
-npm start
-🌐 Usage
-Open the app in multiple tabs/devices
-Join the same session/room
-Start drawing collaboratively in real-time
-📊 Performance Optimization
-Indexed MongoDB collections
-Reduced API response time by ~30%
-Efficient state sync using Socket.IO events
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a PR.
-
-📄 License
-
-This project is open-source and available under the MIT License.
-
-👨‍💻 Author
-
-Sayan Mandal
-
-IIT Kharagpur
-Full Stack Developer | DSA Enthusiast
+```bash id="myop5x"
+git clone https://github.com/Sayan-1123/whiteboard.git
+cd whiteboard
+```
 
 ---
 
+## 📥 Install Backend Dependencies
 
+```bash id="0vjlwm"
+cd backend
+npm install
+```
 
+---
 
+## 📥 Install Frontend Dependencies
 
+```bash id="7u7okm"
+cd ../whiteboard-tutorial
+npm install
+```
 
+---
+
+# ▶️ Running the Application
+
+## Start Backend Server
+
+Open Terminal 1:
+
+```bash id="o6gznv"
+cd C:\Users\sayan\whiteboard\backend
+npm run dev
+```
+
+---
+
+## Start Frontend
+
+Open Terminal 2:
+
+```bash id="5o1uhm"
+cd C:\Users\sayan\whiteboard\whiteboard-tutorial
+npm start
+```
+
+---
+
+# 🌐 Usage
+
+* Open the application in multiple tabs or devices
+* Join the same room/session
+* Start drawing collaboratively in real time
+
+---
+
+# 📊 Performance Optimization
+
+* Indexed MongoDB collections for faster queries
+* Optimized API performance and reduced response time
+* Efficient real-time synchronization using Socket.IO
+* Scalable backend architecture for concurrent users
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+**Sayan Mandal**
+IIT Kharagpur
+Full Stack Developer | DSA Enthusiast
