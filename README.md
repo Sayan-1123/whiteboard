@@ -1,7 +1,6 @@
-# 🎨 Real-Time Collaborative Whiteboard
+# 🎨 Real-Time  Collaborative  Whiteboard
 
 A scalable, real-time collaborative whiteboard platform that allows multiple users to draw, edit, and interact simultaneously with sub-second latency.
-
 ---
 
 ## 🚀 Features
